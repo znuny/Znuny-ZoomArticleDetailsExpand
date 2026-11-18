@@ -16,7 +16,7 @@ Automatically expands/displays article details (sender, subject, etc.) in ticket
 
 **Prerequisites**
 
-- Znuny 7.3
+- Znuny 7.5
 
 **Installation**
 

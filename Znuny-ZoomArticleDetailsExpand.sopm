@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<otrs_package version="1.0">
+<package version="1.0">
     <Name>Znuny-ZoomArticleDetailsExpand</Name>
     <Version>7.3.1</Version>
-    <Framework>7.3.x</Framework>
+    <Framework>7.5.x</Framework>
     <Vendor>Znuny GmbH</Vendor>
     <URL>http://znuny.com/</URL>
     <License>GNU AFFERO GENERAL PUBLIC LICENSE Version 3, November 2007</License>
@@ -60,4 +60,4 @@
         The Znuny default configuration option &lt;strong&gt;Ticket::Frontend::ArticleHeadVisibleDefault&lt;/strong&gt; will be disabled on installation of the package because the function behind it is incompatible with that of this package. The functionality of this package is more extensive than that of the standard Znuny function so there are no disadvantages.
     </IntroUpgrade>
     <PackageMerge Name="Znuny4OTRS-ZoomArticleDetailsExpand" TargetVersion="6.1.0"/>
-</otrs_package>
+</package>
